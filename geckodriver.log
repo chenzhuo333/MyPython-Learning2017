@@ -1,0 +1,15 @@
+1498488355320	geckodriver	INFO	Listening on 127.0.0.1:51484
+1498488357310	mozprofile::profile	INFO	Using profile path C:\Users\ZORROC~1\AppData\Local\Temp\rust_mozprofile.BnOwy3Oxq9pC
+1498488357322	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1498488357327	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51490
+1498488357913	Marionette	INFO	Listening on port 51490
+1498488358356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=re&json=1&p=3&sid=1448_19036_21112_17001_22157&req=2&csor=2&pwd=r&cb=jQuery110209875573428737862_1498488359432&_=1498488359435, line 1: TypeError: jQuery110209875573428737862_1498488359432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=rem&json=1&p=3&sid=1448_19036_21112_17001_22157&req=2&csor=3&pwd=re&cb=jQuery110209875573428737862_1498488359432&_=1498488359436, line 1: TypeError: jQuery110209875573428737862_1498488359432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=r&json=1&p=3&sid=1448_19036_21112_17001_22157&req=2&csor=1&cb=jQuery110209875573428737862_1498488359432&_=1498488359434, line 1: TypeError: jQuery110209875573428737862_1498488359432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=remot&json=1&p=3&sid=1448_19036_21112_17001_22157&req=2&csor=5&pwd=remo&cb=jQuery110209875573428737862_1498488359432&_=1498488359438, line 1: TypeError: jQuery110209875573428737862_1498488359432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=remo&json=1&p=3&sid=1448_19036_21112_17001_22157&req=2&csor=4&pwd=rem&cb=jQuery110209875573428737862_1498488359432&_=1498488359437, line 1: TypeError: jQuery110209875573428737862_1498488359432 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=remote&json=1&p=3&sid=1448_19036_21112_17001_22157&req=2&csor=6&pwd=remot&cb=jQuery110209875573428737862_1498488359432&_=1498488359439, line 1: TypeError: jQuery110209875573428737862_1498488359432 is not a function
+1498488362784	Marionette	INFO	New connections will no longer be accepted
+[Child 13244] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+ting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
